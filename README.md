@@ -1,8 +1,6 @@
 # Recommeder-SemanticAgent-server-2026
 Data-driven educational recommender grounded in explicit domain structure and error distributions. The system infers student learning gaps by analyzing structured error patterns across hierarchical BNCC math skills, guided by a theory of systematic versus random errors.
 
-# Recommender & Semantic Agent Server
-
 This repository contains the backend services for a data-driven educational recommender
 system grounded in explicit domain structure and a theory of systematic errors.
 
